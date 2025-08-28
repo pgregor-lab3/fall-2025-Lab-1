@@ -3,4 +3,4 @@
 
 in this project, we create an HTML document from scratch 
 
-[link to my page] https://github.com/pgregor-lab3/fall-2025-Lab-1/blob/main/index.html
+[link to my page https://github.com/pgregor-lab3/fall-2025-Lab-1/blob/main/index.html]
